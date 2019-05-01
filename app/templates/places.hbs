@@ -1,0 +1,9 @@
+<div class="jumbo">
+    <div class="right"><img src="assets/images/dog-logo.png" alt="logo-img"></div>
+    <h2>Welcome!</h2>
+    <p>We hope you find great places in Nova Scotia for you and your pupper.</p>
+</div>
+
+{{#each model as |place|}}
+    {{place-listing place=place}}
+{{/each}}
