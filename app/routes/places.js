@@ -17,7 +17,7 @@ export default Route.extend({
             id: 'good-robot',
             title: 'Good Robot Brewing',
             city: 'Halifax',
-            type: 'Bar',
+            type: 'Brew pub',
             image:
               'https://goodcheertrail.com/wp-content/uploads/2018/04/GRBC-Logo-2018.jpg',
             description:
@@ -27,7 +27,7 @@ export default Route.extend({
             id: 'trail-shop',
             title: 'The Trail Shop',
             city: 'Halifax',
-            type: 'Retail',
+            type: 'Shop',
             image:
               'https://pbs.twimg.com/profile_images/851392930501844992/xSziR2TA.jpg',
             description:
