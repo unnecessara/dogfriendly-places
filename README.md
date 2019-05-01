@@ -1,7 +1,8 @@
 # dogfriendly-places
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+
+Dog-Friendly Places is an Ember app that shows a list of dog friendly places in Nova Scotia.
 
 ## Prerequisites
 
